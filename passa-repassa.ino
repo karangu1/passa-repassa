@@ -21,7 +21,11 @@ void setup(){
 }
 
 void loop(){
-
+// comparar com o que ja tem escrito
+// TODO 
+// [ ] piscar leds
+// [ ] selecionar  jogadores 
+// [ ] 
 }
 
 void venceJogo(player vencedor){
